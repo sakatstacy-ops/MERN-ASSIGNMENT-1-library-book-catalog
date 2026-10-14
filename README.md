@@ -36,3 +36,5 @@ The seed creates genre documents first, maps their slugs to MongoDB `_id` values
 ## Submission Evidence
 
 After running the seed against Atlas, capture the `books` collection with at least 15 documents and the `genres` collection with at least four documents. Submit those genuine Atlas screenshots and this repository's URL through the course portal.
+
+This repository's `screenshots/` directory currently contains locally captured collection views from `localhost:27017` to verify the seed output. They are not Atlas screenshots and do not replace the Atlas evidence required above.
